@@ -10,6 +10,6 @@ Prof.: Alessandro Brawerman
 
 Alunos:
 
-GRRxxxxxxxx - Maricot Nicolas
+GRR20169925 - Maricot Nicolas
 
 GRR20205187 - Felipe de Carlo Sousa Correa    
